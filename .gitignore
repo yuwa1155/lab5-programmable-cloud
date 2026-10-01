@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+service-credentials.json
+*-credentials.json
